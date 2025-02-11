@@ -1,7 +1,7 @@
 <p align="center">
   <a href="" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://raw.githubusercontent.com/codedojo-motionu/.github/blob/main/profile/assets/ascii_art.png" 
+      src="https://raw.githubusercontent.com/codedojo-motionu/.github/main/profile/assets/ascii_art.png" 
       alt="CODEDOJO" 
       width="500"
     />
