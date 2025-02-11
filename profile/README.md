@@ -13,3 +13,5 @@
 **Code Dojo** is a community dedicated to **Web Development** and **Artificial Intelligence**, with a strong focus on applying technical skills in real-world business scenarios.  
 
 Through **Biz Dojo**, we bridge the gap between technology and business, empowering developers and AI enthusiasts to transform ideas into impactful solutions. 🚀  
+
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codedojo-motionu&theme=2077)
