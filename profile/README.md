@@ -14,4 +14,4 @@
 
 Through **Biz Dojo**, we bridge the gap between technology and business, empowering developers and AI enthusiasts to transform ideas into impactful solutions. 🚀  
 
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codedojo-motionu&theme=2077)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codedojo-motionu&theme=monokai)
